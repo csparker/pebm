@@ -1,6 +1,6 @@
 # Authors: Christopher Parker
 # License: MIT
-__version__ = '0.0.0'
+__version__ = '0.0.1'
 
 
 def configuration(parent_package='', top_path=None):
